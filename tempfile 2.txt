@@ -1,0 +1,24 @@
+ARMac:explore_california akshayraja$ git log
+commit 39afeb6d276f60b188773e03c9a56bf66163f87a (HEAD -> master)
+Author: Akshay Raja <akshay.raja@ymail.com>
+Date:   Wed Aug 1 09:53:14 2018 +0100
+
+    Reverting last commit
+
+commit 2df67510b404a9ec7054977172cfaead9c85409f
+Author: Akshay Raja <akshay.raja@ymail.com>
+Date:   Wed Aug 1 09:39:27 2018 +0100
+
+    Rearrange the items to bring on an outdoor trip
+
+commit 91010d21da674488bf58fc1ab8761b1a98282074
+Author: Akshay Raja <akshay.raja@ymail.com>
+Date:   Tue Jul 31 19:35:28 2018 +0100
+
+    Removed contractions from contact page text
+
+commit 43fd4f6088cb4ea0646fdbd63a53fd2451fa269d
+Author: Akshay Raja <akshay.raja@ymail.com>
+Date:   Tue Jul 31 19:34:26 2018 +0100
+
+    Renamed Backpack Cal file for clarity
